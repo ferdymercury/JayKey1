@@ -37,7 +37,7 @@ JSON files can be found [here](http://www.keyboard-layout-editor.com/#/gists/af0
 
 ## Tools
 - Layout — [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/)
-- PCB — [KiCad EDA](http://kicad-pcb.org/)
+- PCB — [KiCad EDA](http://kicad.org/)
 - Firmware
 	- [tmk_core](https://github.com/tmk/tmk_core)
 	- [avr-gcc](https://www.gnu.org/software/gcc/gcc.html)
